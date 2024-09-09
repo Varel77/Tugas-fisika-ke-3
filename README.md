@@ -3,6 +3,8 @@ Jenis-Jenis Topologi Jaringan pada Komputer Berbagai peran topologi jaringan dal
 
 Topologi Bus Bentuk Topologi Bus ialah berupa rangkaian secara linier yang menyerupai rel kereta api.
 Di mana perangkat server berada di ujung jaringan dan antara client saling sambung menyambungkan data.
+![image](https://github.com/user-attachments/assets/3cc51e71-7392-4dd0-8666-011f6a6a947a)
+
 
 Secara bentuk, rangkaian ini memang sederhana dan mudah dibuat. Namun jika salah satu client tiba-tiba mati maka rangkaian selanjutnya akan terganggu.
 
