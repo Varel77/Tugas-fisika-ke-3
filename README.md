@@ -9,6 +9,8 @@ Di mana perangkat server berada di ujung jaringan dan antara client saling sambu
 Secara bentuk, rangkaian ini memang sederhana dan mudah dibuat. Namun jika salah satu client tiba-tiba mati maka rangkaian selanjutnya akan terganggu.
 
 2.Topologi Ring Prinsip jaringan berbentuk cincin ini mirip dengan kesederhanaan Topologi Jaringan Bus. Hanya saja jaringan ini berupa satu lingkaran penuh.
+![image](https://github.com/user-attachments/assets/6e82102a-0f72-4388-b2e2-63dfb8577dda)
+
 
 Jadi komputer server membagi datanya pada dua client yang lain. Nantinya kedua client ini akan menyambungkan data tersebut kepada client lainnya.
 
