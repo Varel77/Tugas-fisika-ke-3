@@ -21,16 +21,24 @@ Jadi komputer server membagi datanya pada dua client yang lain. Nantinya kedua c
 Dengan begitu antar sesama client tidak saling mempengaruhi. Kelebihannya tentu saja jika salah satu client mati, cliet yang lain tidak akan dipengaruhi.
 
 4.Topologi Mesh Secara bentuk, bisa dibilang Topologi Mesh merupakan gabungan dari Topologi Star dengan Ring.
+![image](https://github.com/user-attachments/assets/0a94c73a-f73c-4c54-a4ab-c626084ff80d)
+
 
 Jadi komputer server melayani masing-masing client namun setiap client akan terhubung satu dengan yang lain.
 
 5.Topologi Tree Dibuat menyerupai pohon dengan server sebagai induk. Kemudian client-cliet menyebar di bawahnya sebagaina cabang dengan ranting-ranting pohon.
+![image](https://github.com/user-attachments/assets/e47d5811-1cb2-4462-a368-3ded468b7e83)
+
 
 6.Topologi Hybrid Topologi ini menghubungkan topologi satu dengan yang lainnya. Jadi merupakan sebuah hubungan kompleks yang dibuat bersama-sama untuk saling mendukung satu sama lain.
+![image](https://github.com/user-attachments/assets/085fcf64-09ac-4106-b544-12afe96bfd90)
+
 
 7.Topologi Peer to Peer
 
 Topologi ini cukup sederhana karena yang dihubungkan hanya dua komputer dengan satu kabel untuk berbagi data.
+![image](https://github.com/user-attachments/assets/d00a0327-c6ad-4500-8243-066df732f9e7)
+
 
 Kelebihan dari topologi peer to peer adalah biaya instalasi yang murah dengan instalasi yang mudah serta setiap komputer memiliki peranan sebagai klien atau server.
 
@@ -39,6 +47,8 @@ Kekurangan dari topologi peer to peer diantaranya terletak pada kesulitan untuk 
 8.Topologi Linier
 
 Topologi linier menggunakan satu kabel di setiap komputer sebagai konektor di masing-masing titik sambungan.
+![image](https://github.com/user-attachments/assets/e9e52b88-e858-4600-a2f0-659846f920aa)
+
 
 Kelebihan dari topologi linier diantaranya mudah dikembangkan, hanya menggunakan sedikit kabel, tidak membutuhkan kendali sentral serta memiliki tata leta
 
