@@ -15,6 +15,8 @@ Secara bentuk, rangkaian ini memang sederhana dan mudah dibuat. Namun jika salah
 Jadi komputer server membagi datanya pada dua client yang lain. Nantinya kedua client ini akan menyambungkan data tersebut kepada client lainnya.
 
 3.Topologi Star Sesuai namanya, bentuk jaringan ini menyerupai bintang. Di mana server akan langsung melayani para clientnya satu per satu.
+![image](https://github.com/user-attachments/assets/2e4e735f-1092-429b-b588-d422c2882596)
+
 
 Dengan begitu antar sesama client tidak saling mempengaruhi. Kelebihannya tentu saja jika salah satu client mati, cliet yang lain tidak akan dipengaruhi.
 
